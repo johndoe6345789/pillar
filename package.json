@@ -14,7 +14,7 @@
     "babelify": "10.0.0",
     "browserify": "16.2.3",
     "gulp": "4.0.0",
-    "gulp-autoprefixer": "6.0.0",
+    "gulp-autoprefixer": "10.0.0",
     "gulp-babel": "8.0.0",
     "gulp-cached": "1.1.1",
     "gulp-chmod": "2.0.0",
@@ -23,24 +23,24 @@
     "gulp-if": "2.0.2",
     "gulp-livereload": "4.0.0",
     "gulp-plumber": "1.2.0",
-    "gulp-pug": "4.0.1",
+    "gulp-pug": "5.0.0",
     "gulp-rename": "1.4.0",
-    "gulp-sass": "4.1.0",
+    "gulp-sass": "6.0.1",
     "gulp-sourcemaps": "2.6.4",
     "gulp-uglify-es": "1.0.4",
-    "jest": "^24.8.0",
-    "minimist": "1.2.0",
+    "jest": "^30.5.2",
+    "minimist": "1.2.8",
     "vinyl-buffer": "1.0.1",
     "vinyl-source-stream": "2.0.0"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
     "glob": "7.1.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.7.1",
     "natives": "^1.1.6",
     "popper.js": "1.14.4",
-    "video.js": "7.2.2",
-    "vue": "2.5.17"
+    "video.js": "7.14.3",
+    "vue": "3.0.0"
   },
   "scripts": {
     "test": "jest"
